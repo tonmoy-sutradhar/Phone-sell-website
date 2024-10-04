@@ -32,10 +32,10 @@ const displayAllPhones = (phones) => {
       class="rounded-xl" />
    </figure>
      <div class="card-body items-center text-center">
-      <h2 class="card-title">Shoes!</h2>
-      <p>If a dog chews shoes whose shoes does he choose?</p>
+      <h2 class="card-title">${brand}</h2>
+      <p>${slug}</p>
       <div class="card-actions">
-      <button class="btn btn-primary">Buy Now</button>
+      <button class="btn btn-primary">Show Details</button>
        </div>
      </div>
     </div>
